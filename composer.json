@@ -9,5 +9,10 @@
             "email": "dziemboh@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Dziem\\Kamus\\": ""
+        }
+    },
     "require": {}
 }
