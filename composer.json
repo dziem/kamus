@@ -12,7 +12,10 @@
     "autoload": {
         "psr-4": {
             "Dziem\\Kamus\\": ""
-        }
+        },
+        "files": [
+            "helpers.php"
+        ]
     },
     "require": {}
 }
