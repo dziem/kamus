@@ -1,0 +1,13 @@
+{
+    "name": "dziem/kamus",
+    "description": "uppercase",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dziem",
+            "email": "dziemboh@gmail.com"
+        }
+    ],
+    "require": {}
+}
